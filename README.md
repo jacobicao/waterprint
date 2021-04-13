@@ -1,4 +1,4 @@
 # waterprint
 ## Example
-![](IMG.jpg)
-![](IMG_wp.png)
+![](https://github.com/jacobicao/waterprint/raw/main/IMG.jpg)
+![](https://github.com/jacobicao/waterprint/raw/main/IMG_wp.jpg)
